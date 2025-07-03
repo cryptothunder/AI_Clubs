@@ -1,3 +1,5 @@
+api-daemon-extension
+api-daemon-extension/*
 api-daemon-extension/*.pem
 api-daemon-extension/.DS_Store
 api-daemon-extension/INSTALLATION.md
